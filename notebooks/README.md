@@ -1,1 +1,1 @@
-
+This folder contains project files for the financial market pricing analysis project.
