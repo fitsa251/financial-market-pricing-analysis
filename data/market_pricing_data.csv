@@ -1,0 +1,481 @@
+pricing_date,security_id,ticker,security_name,asset_class,currency,pricing_vendor,previous_close,current_price,daily_change_pct,volume,pricing_status,exception_flag,exception_reason
+2025-07-01,SEC001,AAPL,Apple Inc.,Equity,USD,Bloomberg,185.0,180.08,-2.66,1922427.0,Reviewed,No,Normal price movement
+2025-07-02,SEC001,AAPL,Apple Inc.,Equity,USD,Reuters,180.08,182.46,1.32,4624866.0,Reviewed,No,Normal price movement
+2025-07-03,SEC001,AAPL,Apple Inc.,Equity,USD,Bloomberg,182.46,196.7,7.8,1884068.0,Needs Review,Yes,Large market movement
+2025-07-04,SEC001,AAPL,Apple Inc.,Equity,USD,Reuters,196.7,180.17,-8.4,4621300.0,Needs Review,Yes,Large market movement
+2025-07-07,SEC001,AAPL,Apple Inc.,Equity,USD,Internal Feed,180.17,177.35,-1.57,104515.0,Reviewed,No,Normal price movement
+2025-07-08,SEC001,AAPL,Apple Inc.,Equity,USD,Reuters,177.35,179.32,1.11,1354256.0,Reviewed,No,Normal price movement
+2025-07-09,SEC001,AAPL,Apple Inc.,Equity,USD,Reuters,179.32,183.91,2.56,828008.0,Reviewed,No,Normal price movement
+2025-07-10,SEC001,AAPL,Apple Inc.,Equity,USD,Internal Feed,183.91,179.76,-2.26,2268961.0,Reviewed,No,Normal price movement
+2025-07-11,SEC001,AAPL,Apple Inc.,Equity,USD,Bloomberg,179.76,182.07,1.29,3225376.0,Reviewed,No,Normal price movement
+2025-07-14,SEC001,AAPL,Apple Inc.,Equity,USD,Bloomberg,182.07,182.6,0.29,3083614.0,Reviewed,No,Normal price movement
+2025-07-15,SEC001,AAPL,Apple Inc.,Equity,USD,Reuters,182.6,182.6,0.0,1961749.0,Needs Review,Yes,Possible stale price
+2025-07-16,SEC001,AAPL,Apple Inc.,Equity,USD,ICE Data Services,182.6,187.56,2.72,897261.0,Reviewed,No,Normal price movement
+2025-07-17,SEC001,AAPL,Apple Inc.,Equity,USD,Internal Feed,187.56,185.23,-1.24,3110434.0,Reviewed,No,Normal price movement
+2025-07-18,SEC001,AAPL,Apple Inc.,Equity,USD,Reuters,185.23,183.88,-0.73,2289572.0,Reviewed,No,Normal price movement
+2025-07-21,SEC001,AAPL,Apple Inc.,Equity,USD,Bloomberg,183.88,185.01,0.61,2103622.0,Reviewed,No,Normal price movement
+2025-07-22,SEC001,AAPL,Apple Inc.,Equity,USD,Reuters,185.01,184.62,-0.21,4722033.0,Reviewed,No,Normal price movement
+2025-07-23,SEC001,AAPL,Apple Inc.,Equity,USD,Reuters,184.62,186.53,1.03,519241.0,Reviewed,No,Normal price movement
+2025-07-24,SEC001,AAPL,Apple Inc.,Equity,USD,Reuters,186.53,189.89,1.8,3415214.0,Reviewed,No,Normal price movement
+2025-07-25,SEC001,AAPL,Apple Inc.,Equity,USD,ICE Data Services,189.89,185.27,-2.43,4807851.0,Reviewed,No,Normal price movement
+2025-07-28,SEC001,AAPL,Apple Inc.,Equity,USD,ICE Data Services,185.27,182.29,-1.61,3899128.0,Reviewed,No,Normal price movement
+2025-07-29,SEC001,AAPL,Apple Inc.,Equity,USD,Reuters,182.29,179.89,-1.32,4759097.0,Reviewed,No,Normal price movement
+2025-07-30,SEC001,AAPL,Apple Inc.,Equity,USD,ICE Data Services,179.89,182.38,1.38,4945028.0,Reviewed,No,Normal price movement
+2025-07-31,SEC001,AAPL,Apple Inc.,Equity,USD,Internal Feed,182.38,180.97,-0.77,1210410.0,Reviewed,No,Normal price movement
+2025-08-01,SEC001,AAPL,Apple Inc.,Equity,USD,Internal Feed,180.97,180.97,0.0,969803.0,Needs Review,Yes,Possible stale price
+2025-08-04,SEC001,AAPL,Apple Inc.,Equity,USD,Reuters,180.97,182.26,0.71,3591334.0,Reviewed,No,Normal price movement
+2025-08-05,SEC001,AAPL,Apple Inc.,Equity,USD,Bloomberg,182.26,181.09,-0.65,3976287.0,Reviewed,No,Normal price movement
+2025-08-06,SEC001,AAPL,Apple Inc.,Equity,USD,ICE Data Services,181.09,185.86,2.64,146309.0,Reviewed,No,Normal price movement
+2025-08-07,SEC001,AAPL,Apple Inc.,Equity,USD,Bloomberg,185.86,187.76,1.02,2288291.0,Reviewed,No,Normal price movement
+2025-08-08,SEC001,AAPL,Apple Inc.,Equity,USD,ICE Data Services,187.76,183.67,-2.18,3856110.0,Reviewed,No,Normal price movement
+2025-08-11,SEC001,AAPL,Apple Inc.,Equity,USD,Bloomberg,183.67,188.34,2.54,2259467.0,Reviewed,No,Normal price movement
+2025-08-12,SEC001,AAPL,Apple Inc.,Equity,USD,Reuters,188.34,188.42,0.04,2553536.0,Reviewed,No,Normal price movement
+2025-08-13,SEC001,AAPL,Apple Inc.,Equity,USD,Reuters,188.42,184.76,-1.94,4574639.0,Reviewed,No,Normal price movement
+2025-08-14,SEC001,AAPL,Apple Inc.,Equity,USD,Bloomberg,184.76,185.78,0.55,988414.0,Reviewed,No,Normal price movement
+2025-08-15,SEC001,AAPL,Apple Inc.,Equity,USD,ICE Data Services,185.78,189.72,2.12,2629615.0,Reviewed,No,Normal price movement
+2025-08-18,SEC001,AAPL,Apple Inc.,Equity,USD,Reuters,189.72,185.02,-2.48,710662.0,Reviewed,No,Normal price movement
+2025-08-19,SEC001,AAPL,Apple Inc.,Equity,USD,Bloomberg,185.02,187.43,1.3,4518663.0,Reviewed,No,Normal price movement
+2025-08-20,SEC001,AAPL,Apple Inc.,Equity,USD,Reuters,187.43,183.53,-2.08,4662086.0,Reviewed,No,Normal price movement
+2025-08-21,SEC001,AAPL,Apple Inc.,Equity,USD,Reuters,183.53,181.11,-1.32,3599538.0,Reviewed,No,Normal price movement
+2025-08-22,SEC001,AAPL,Apple Inc.,Equity,USD,Reuters,181.11,185.46,2.4,1737377.0,Reviewed,No,Normal price movement
+2025-08-25,SEC001,AAPL,Apple Inc.,Equity,USD,ICE Data Services,185.46,184.41,-0.57,3182478.0,Reviewed,No,Normal price movement
+2025-08-26,SEC001,AAPL,Apple Inc.,Equity,USD,Internal Feed,184.41,188.54,2.24,2129583.0,Reviewed,No,Normal price movement
+2025-08-27,SEC001,AAPL,Apple Inc.,Equity,USD,Reuters,188.54,172.7,-8.4,4986193.0,Needs Review,Yes,Large market movement
+2025-08-28,SEC001,AAPL,Apple Inc.,Equity,USD,Reuters,172.7,167.94,-2.76,543868.0,Reviewed,No,Normal price movement
+2025-08-29,SEC001,AAPL,Apple Inc.,Equity,USD,Reuters,167.94,185.07,10.2,644394.0,Needs Review,Yes,Large market movement
+2025-09-01,SEC001,AAPL,Apple Inc.,Equity,USD,Reuters,185.07,182.77,-1.24,4573422.0,Reviewed,No,Normal price movement
+2025-09-02,SEC001,AAPL,Apple Inc.,Equity,USD,Reuters,182.77,185.06,1.25,4883613.0,Reviewed,No,Normal price movement
+2025-09-03,SEC001,AAPL,Apple Inc.,Equity,USD,Internal Feed,185.06,182.39,-1.44,3464666.0,Reviewed,No,Normal price movement
+2025-09-04,SEC001,AAPL,Apple Inc.,Equity,USD,Reuters,182.39,178.25,-2.27,3022063.0,Reviewed,No,Normal price movement
+2025-09-05,SEC001,AAPL,Apple Inc.,Equity,USD,Internal Feed,178.25,177.36,-0.5,504420.0,Reviewed,No,Normal price movement
+2025-09-08,SEC001,AAPL,Apple Inc.,Equity,USD,Bloomberg,177.36,173.0,-2.46,966615.0,Reviewed,No,Normal price movement
+2025-09-09,SEC001,AAPL,Apple Inc.,Equity,USD,Reuters,173.0,170.01,-1.73,1225934.0,Reviewed,No,Normal price movement
+2025-09-10,SEC001,AAPL,Apple Inc.,Equity,USD,Internal Feed,170.01,167.0,-1.77,682374.0,Reviewed,No,Normal price movement
+2025-09-11,SEC001,AAPL,Apple Inc.,Equity,USD,Internal Feed,167.0,169.88,1.72,871317.0,Reviewed,No,Normal price movement
+2025-09-12,SEC001,AAPL,Apple Inc.,Equity,USD,Bloomberg,169.88,171.32,0.85,173797.0,Reviewed,No,Normal price movement
+2025-09-15,SEC001,AAPL,Apple Inc.,Equity,USD,Bloomberg,171.32,175.42,2.39,1445118.0,Reviewed,No,Normal price movement
+2025-09-16,SEC001,AAPL,Apple Inc.,Equity,USD,Internal Feed,175.42,175.27,-0.08,3414169.0,Reviewed,No,Normal price movement
+2025-09-17,SEC001,AAPL,Apple Inc.,Equity,USD,Bloomberg,175.27,,,,Needs Review,Yes,Missing vendor price
+2025-09-18,SEC001,AAPL,Apple Inc.,Equity,USD,Internal Feed,175.27,172.97,-1.31,3866886.0,Reviewed,No,Normal price movement
+2025-09-19,SEC001,AAPL,Apple Inc.,Equity,USD,ICE Data Services,172.97,172.22,-0.43,4712122.0,Reviewed,No,Normal price movement
+2025-09-22,SEC001,AAPL,Apple Inc.,Equity,USD,Internal Feed,172.22,168.89,-1.93,540593.0,Reviewed,No,Normal price movement
+2025-07-01,SEC002,MSFT,Microsoft Corp.,Equity,USD,Bloomberg,410.0,415.69,1.39,4950436.0,Reviewed,No,Normal price movement
+2025-07-02,SEC002,MSFT,Microsoft Corp.,Equity,USD,Internal Feed,415.69,415.76,0.02,1370641.0,Reviewed,No,Normal price movement
+2025-07-03,SEC002,MSFT,Microsoft Corp.,Equity,USD,Bloomberg,415.76,426.49,2.58,1608812.0,Reviewed,No,Normal price movement
+2025-07-04,SEC002,MSFT,Microsoft Corp.,Equity,USD,Bloomberg,426.49,428.76,0.53,2023033.0,Reviewed,No,Normal price movement
+2025-07-07,SEC002,MSFT,Microsoft Corp.,Equity,USD,Internal Feed,428.76,419.63,-2.13,2115404.0,Reviewed,No,Normal price movement
+2025-07-08,SEC002,MSFT,Microsoft Corp.,Equity,USD,Bloomberg,419.63,422.44,0.67,4946198.0,Reviewed,No,Normal price movement
+2025-07-09,SEC002,MSFT,Microsoft Corp.,Equity,USD,ICE Data Services,422.44,432.72,2.43,2685565.0,Reviewed,No,Normal price movement
+2025-07-10,SEC002,MSFT,Microsoft Corp.,Equity,USD,Reuters,432.72,427.04,-1.31,2566557.0,Reviewed,No,Normal price movement
+2025-07-11,SEC002,MSFT,Microsoft Corp.,Equity,USD,Internal Feed,427.04,422.64,-1.03,658535.0,Reviewed,No,Normal price movement
+2025-07-14,SEC002,MSFT,Microsoft Corp.,Equity,USD,Bloomberg,422.64,421.66,-0.23,888703.0,Reviewed,No,Normal price movement
+2025-07-15,SEC002,MSFT,Microsoft Corp.,Equity,USD,Bloomberg,421.66,422.55,0.21,1161126.0,Reviewed,No,Normal price movement
+2025-07-16,SEC002,MSFT,Microsoft Corp.,Equity,USD,ICE Data Services,422.55,431.56,2.13,3149817.0,Reviewed,No,Normal price movement
+2025-07-17,SEC002,MSFT,Microsoft Corp.,Equity,USD,ICE Data Services,431.56,423.29,-1.92,2587697.0,Reviewed,No,Normal price movement
+2025-07-18,SEC002,MSFT,Microsoft Corp.,Equity,USD,Bloomberg,423.29,427.27,0.94,918946.0,Reviewed,No,Normal price movement
+2025-07-21,SEC002,MSFT,Microsoft Corp.,Equity,USD,Reuters,427.27,421.63,-1.32,4690776.0,Reviewed,No,Normal price movement
+2025-07-22,SEC002,MSFT,Microsoft Corp.,Equity,USD,Reuters,421.63,416.25,-1.27,2926288.0,Reviewed,No,Normal price movement
+2025-07-23,SEC002,MSFT,Microsoft Corp.,Equity,USD,Reuters,416.25,420.63,1.05,4289678.0,Reviewed,No,Normal price movement
+2025-07-24,SEC002,MSFT,Microsoft Corp.,Equity,USD,Internal Feed,420.63,414.76,-1.39,476132.0,Reviewed,No,Normal price movement
+2025-07-25,SEC002,MSFT,Microsoft Corp.,Equity,USD,Bloomberg,414.76,417.88,0.75,419826.0,Reviewed,No,Normal price movement
+2025-07-28,SEC002,MSFT,Microsoft Corp.,Equity,USD,Bloomberg,417.88,413.99,-0.93,2247440.0,Reviewed,No,Normal price movement
+2025-07-29,SEC002,MSFT,Microsoft Corp.,Equity,USD,Reuters,413.99,419.58,1.35,3637697.0,Reviewed,No,Normal price movement
+2025-07-30,SEC002,MSFT,Microsoft Corp.,Equity,USD,Bloomberg,419.58,410.46,-2.17,1300357.0,Reviewed,No,Normal price movement
+2025-07-31,SEC002,MSFT,Microsoft Corp.,Equity,USD,Bloomberg,410.46,418.15,1.87,1292300.0,Reviewed,No,Normal price movement
+2025-08-01,SEC002,MSFT,Microsoft Corp.,Equity,USD,Internal Feed,418.15,409.43,-2.09,384662.0,Reviewed,No,Normal price movement
+2025-08-04,SEC002,MSFT,Microsoft Corp.,Equity,USD,ICE Data Services,409.43,402.78,-1.62,912295.0,Reviewed,No,Normal price movement
+2025-08-05,SEC002,MSFT,Microsoft Corp.,Equity,USD,ICE Data Services,402.78,409.1,1.57,3458940.0,Reviewed,No,Normal price movement
+2025-08-06,SEC002,MSFT,Microsoft Corp.,Equity,USD,Reuters,409.1,418.85,2.38,1413163.0,Reviewed,No,Normal price movement
+2025-08-07,SEC002,MSFT,Microsoft Corp.,Equity,USD,Reuters,418.85,461.57,10.2,3503700.0,Needs Review,Yes,Large market movement
+2025-08-08,SEC002,MSFT,Microsoft Corp.,Equity,USD,Reuters,461.57,455.55,-1.31,956771.0,Reviewed,No,Normal price movement
+2025-08-11,SEC002,MSFT,Microsoft Corp.,Equity,USD,Internal Feed,455.55,465.04,2.08,1915909.0,Reviewed,No,Normal price movement
+2025-08-12,SEC002,MSFT,Microsoft Corp.,Equity,USD,Reuters,465.04,473.29,1.77,2610126.0,Reviewed,No,Normal price movement
+2025-08-13,SEC002,MSFT,Microsoft Corp.,Equity,USD,Reuters,473.29,465.94,-1.55,3392574.0,Reviewed,No,Normal price movement
+2025-08-14,SEC002,MSFT,Microsoft Corp.,Equity,USD,ICE Data Services,465.94,460.17,-1.24,2391470.0,Reviewed,No,Normal price movement
+2025-08-15,SEC002,MSFT,Microsoft Corp.,Equity,USD,ICE Data Services,460.17,463.81,0.79,4548103.0,Reviewed,No,Normal price movement
+2025-08-18,SEC002,MSFT,Microsoft Corp.,Equity,USD,ICE Data Services,463.81,475.22,2.46,2241231.0,Reviewed,No,Normal price movement
+2025-08-19,SEC002,MSFT,Microsoft Corp.,Equity,USD,Reuters,475.22,477.36,0.45,370924.0,Reviewed,No,Normal price movement
+2025-08-20,SEC002,MSFT,Microsoft Corp.,Equity,USD,Bloomberg,477.36,479.95,0.54,2681316.0,Reviewed,No,Normal price movement
+2025-08-21,SEC002,MSFT,Microsoft Corp.,Equity,USD,Internal Feed,479.95,482.8,0.59,3281253.0,Reviewed,No,Normal price movement
+2025-08-22,SEC002,MSFT,Microsoft Corp.,Equity,USD,Reuters,482.8,476.17,-1.37,64187.0,Reviewed,No,Normal price movement
+2025-08-25,SEC002,MSFT,Microsoft Corp.,Equity,USD,Reuters,476.17,472.55,-0.76,2819918.0,Reviewed,No,Normal price movement
+2025-08-26,SEC002,MSFT,Microsoft Corp.,Equity,USD,ICE Data Services,472.55,476.87,0.91,2569285.0,Reviewed,No,Normal price movement
+2025-08-27,SEC002,MSFT,Microsoft Corp.,Equity,USD,ICE Data Services,476.87,481.33,0.93,2530135.0,Reviewed,No,Normal price movement
+2025-08-28,SEC002,MSFT,Microsoft Corp.,Equity,USD,Reuters,481.33,473.02,-1.73,3230501.0,Reviewed,No,Normal price movement
+2025-08-29,SEC002,MSFT,Microsoft Corp.,Equity,USD,Reuters,473.02,476.08,0.65,4646430.0,Reviewed,No,Normal price movement
+2025-09-01,SEC002,MSFT,Microsoft Corp.,Equity,USD,Bloomberg,476.08,470.85,-1.1,4915264.0,Reviewed,No,Normal price movement
+2025-09-02,SEC002,MSFT,Microsoft Corp.,Equity,USD,ICE Data Services,470.85,469.93,-0.2,1842657.0,Reviewed,No,Normal price movement
+2025-09-03,SEC002,MSFT,Microsoft Corp.,Equity,USD,Internal Feed,469.93,477.66,1.64,1473474.0,Reviewed,No,Normal price movement
+2025-09-04,SEC002,MSFT,Microsoft Corp.,Equity,USD,Bloomberg,477.66,471.88,-1.21,2861762.0,Reviewed,No,Normal price movement
+2025-09-05,SEC002,MSFT,Microsoft Corp.,Equity,USD,Bloomberg,471.88,480.29,1.78,2653987.0,Reviewed,No,Normal price movement
+2025-09-08,SEC002,MSFT,Microsoft Corp.,Equity,USD,Reuters,480.29,488.54,1.72,437668.0,Reviewed,No,Normal price movement
+2025-09-09,SEC002,MSFT,Microsoft Corp.,Equity,USD,Reuters,488.54,501.78,2.71,660927.0,Reviewed,No,Normal price movement
+2025-09-10,SEC002,MSFT,Microsoft Corp.,Equity,USD,Internal Feed,501.78,499.37,-0.48,1681040.0,Reviewed,No,Normal price movement
+2025-09-11,SEC002,MSFT,Microsoft Corp.,Equity,USD,Internal Feed,499.37,499.22,-0.03,96513.0,Reviewed,No,Normal price movement
+2025-09-12,SEC002,MSFT,Microsoft Corp.,Equity,USD,Bloomberg,499.22,507.0,1.56,4394944.0,Reviewed,No,Normal price movement
+2025-09-15,SEC002,MSFT,Microsoft Corp.,Equity,USD,Internal Feed,507.0,494.23,-2.52,1068029.0,Reviewed,No,Normal price movement
+2025-09-16,SEC002,MSFT,Microsoft Corp.,Equity,USD,Internal Feed,494.23,484.08,-2.05,4505457.0,Reviewed,No,Normal price movement
+2025-09-17,SEC002,MSFT,Microsoft Corp.,Equity,USD,ICE Data Services,484.08,496.28,2.52,4284386.0,Reviewed,No,Normal price movement
+2025-09-18,SEC002,MSFT,Microsoft Corp.,Equity,USD,Internal Feed,496.28,505.47,1.85,1385113.0,Reviewed,No,Normal price movement
+2025-09-19,SEC002,MSFT,Microsoft Corp.,Equity,USD,Internal Feed,505.47,504.05,-0.28,2376256.0,Reviewed,No,Normal price movement
+2025-09-22,SEC002,MSFT,Microsoft Corp.,Equity,USD,Internal Feed,504.05,507.63,0.71,699977.0,Reviewed,No,Normal price movement
+2025-07-01,SEC003,JPM,JPMorgan Chase & Co.,Equity,USD,ICE Data Services,195.0,192.1,-1.49,4581125.0,Reviewed,No,Normal price movement
+2025-07-02,SEC003,JPM,JPMorgan Chase & Co.,Equity,USD,Bloomberg,192.1,188.21,-2.03,1331823.0,Reviewed,No,Normal price movement
+2025-07-03,SEC003,JPM,JPMorgan Chase & Co.,Equity,USD,Reuters,188.21,183.62,-2.44,4601752.0,Reviewed,No,Normal price movement
+2025-07-04,SEC003,JPM,JPMorgan Chase & Co.,Equity,USD,Internal Feed,183.62,182.75,-0.47,3574419.0,Reviewed,No,Normal price movement
+2025-07-07,SEC003,JPM,JPMorgan Chase & Co.,Equity,USD,Internal Feed,182.75,186.89,2.27,213845.0,Reviewed,No,Normal price movement
+2025-07-08,SEC003,JPM,JPMorgan Chase & Co.,Equity,USD,Internal Feed,186.89,186.65,-0.13,2554944.0,Reviewed,No,Normal price movement
+2025-07-09,SEC003,JPM,JPMorgan Chase & Co.,Equity,USD,Internal Feed,186.65,190.35,1.98,3565005.0,Reviewed,No,Normal price movement
+2025-07-10,SEC003,JPM,JPMorgan Chase & Co.,Equity,USD,Reuters,190.35,190.22,-0.07,4123860.0,Reviewed,No,Normal price movement
+2025-07-11,SEC003,JPM,JPMorgan Chase & Co.,Equity,USD,Bloomberg,190.22,189.04,-0.62,3441654.0,Reviewed,No,Normal price movement
+2025-07-14,SEC003,JPM,JPMorgan Chase & Co.,Equity,USD,Reuters,189.04,192.64,1.91,4530553.0,Reviewed,No,Normal price movement
+2025-07-15,SEC003,JPM,JPMorgan Chase & Co.,Equity,USD,Bloomberg,192.64,197.03,2.28,277348.0,Reviewed,No,Normal price movement
+2025-07-16,SEC003,JPM,JPMorgan Chase & Co.,Equity,USD,Bloomberg,197.03,198.61,0.8,3923007.0,Reviewed,No,Normal price movement
+2025-07-17,SEC003,JPM,JPMorgan Chase & Co.,Equity,USD,Reuters,198.61,193.61,-2.52,1825535.0,Reviewed,No,Normal price movement
+2025-07-18,SEC003,JPM,JPMorgan Chase & Co.,Equity,USD,Internal Feed,193.61,191.73,-0.97,3230341.0,Reviewed,No,Normal price movement
+2025-07-21,SEC003,JPM,JPMorgan Chase & Co.,Equity,USD,ICE Data Services,191.73,194.44,1.41,2166206.0,Reviewed,No,Normal price movement
+2025-07-22,SEC003,JPM,JPMorgan Chase & Co.,Equity,USD,Bloomberg,194.44,194.11,-0.17,486925.0,Reviewed,No,Normal price movement
+2025-07-23,SEC003,JPM,JPMorgan Chase & Co.,Equity,USD,ICE Data Services,194.11,191.11,-1.54,387709.0,Reviewed,No,Normal price movement
+2025-07-24,SEC003,JPM,JPMorgan Chase & Co.,Equity,USD,Bloomberg,191.11,195.93,2.52,220959.0,Reviewed,No,Normal price movement
+2025-07-25,SEC003,JPM,JPMorgan Chase & Co.,Equity,USD,Reuters,195.93,193.06,-1.46,1009568.0,Reviewed,No,Normal price movement
+2025-07-28,SEC003,JPM,JPMorgan Chase & Co.,Equity,USD,Reuters,193.06,192.68,-0.2,3144517.0,Reviewed,No,Normal price movement
+2025-07-29,SEC003,JPM,JPMorgan Chase & Co.,Equity,USD,Reuters,192.68,193.82,0.59,1010771.0,Reviewed,No,Normal price movement
+2025-07-30,SEC003,JPM,JPMorgan Chase & Co.,Equity,USD,Reuters,193.82,198.87,2.6,265406.0,Reviewed,No,Normal price movement
+2025-07-31,SEC003,JPM,JPMorgan Chase & Co.,Equity,USD,ICE Data Services,198.87,199.71,0.42,3198302.0,Reviewed,No,Normal price movement
+2025-08-01,SEC003,JPM,JPMorgan Chase & Co.,Equity,USD,Internal Feed,199.71,204.65,2.47,2087168.0,Reviewed,No,Normal price movement
+2025-08-04,SEC003,JPM,JPMorgan Chase & Co.,Equity,USD,Bloomberg,204.65,206.91,1.1,1065483.0,Reviewed,No,Normal price movement
+2025-08-05,SEC003,JPM,JPMorgan Chase & Co.,Equity,USD,Bloomberg,206.91,205.14,-0.86,3158573.0,Reviewed,No,Normal price movement
+2025-08-06,SEC003,JPM,JPMorgan Chase & Co.,Equity,USD,Bloomberg,205.14,205.21,0.03,3573708.0,Reviewed,No,Normal price movement
+2025-08-07,SEC003,JPM,JPMorgan Chase & Co.,Equity,USD,Internal Feed,205.21,200.67,-2.21,3906573.0,Reviewed,No,Normal price movement
+2025-08-08,SEC003,JPM,JPMorgan Chase & Co.,Equity,USD,Reuters,200.67,199.95,-0.36,2315615.0,Reviewed,No,Normal price movement
+2025-08-11,SEC003,JPM,JPMorgan Chase & Co.,Equity,USD,Internal Feed,199.95,199.55,-0.2,2301464.0,Reviewed,No,Normal price movement
+2025-08-12,SEC003,JPM,JPMorgan Chase & Co.,Equity,USD,ICE Data Services,199.55,203.48,1.97,776981.0,Reviewed,No,Normal price movement
+2025-08-13,SEC003,JPM,JPMorgan Chase & Co.,Equity,USD,ICE Data Services,203.48,207.83,2.14,3948257.0,Reviewed,No,Normal price movement
+2025-08-14,SEC003,JPM,JPMorgan Chase & Co.,Equity,USD,Internal Feed,207.83,205.93,-0.92,2776416.0,Reviewed,No,Normal price movement
+2025-08-15,SEC003,JPM,JPMorgan Chase & Co.,Equity,USD,Reuters,205.93,205.79,-0.07,2217217.0,Reviewed,No,Normal price movement
+2025-08-18,SEC003,JPM,JPMorgan Chase & Co.,Equity,USD,ICE Data Services,205.79,203.25,-1.23,2367508.0,Reviewed,No,Normal price movement
+2025-08-19,SEC003,JPM,JPMorgan Chase & Co.,Equity,USD,Bloomberg,203.25,203.44,0.09,2074641.0,Reviewed,No,Normal price movement
+2025-08-20,SEC003,JPM,JPMorgan Chase & Co.,Equity,USD,Internal Feed,203.44,203.31,-0.06,4043758.0,Reviewed,No,Normal price movement
+2025-08-21,SEC003,JPM,JPMorgan Chase & Co.,Equity,USD,Internal Feed,203.31,224.04,10.2,1908885.0,Needs Review,Yes,Large market movement
+2025-08-22,SEC003,JPM,JPMorgan Chase & Co.,Equity,USD,Internal Feed,224.04,226.45,1.07,4928441.0,Reviewed,No,Normal price movement
+2025-08-25,SEC003,JPM,JPMorgan Chase & Co.,Equity,USD,ICE Data Services,226.45,226.11,-0.15,3619384.0,Reviewed,No,Normal price movement
+2025-08-26,SEC003,JPM,JPMorgan Chase & Co.,Equity,USD,ICE Data Services,226.11,224.23,-0.83,2622140.0,Reviewed,No,Normal price movement
+2025-08-27,SEC003,JPM,JPMorgan Chase & Co.,Equity,USD,ICE Data Services,224.23,220.85,-1.51,2697008.0,Reviewed,No,Normal price movement
+2025-08-28,SEC003,JPM,JPMorgan Chase & Co.,Equity,USD,Bloomberg,220.85,223.85,1.36,1603149.0,Reviewed,No,Normal price movement
+2025-08-29,SEC003,JPM,JPMorgan Chase & Co.,Equity,USD,Reuters,223.85,220.3,-1.59,4995813.0,Reviewed,No,Normal price movement
+2025-09-01,SEC003,JPM,JPMorgan Chase & Co.,Equity,USD,ICE Data Services,220.3,226.23,2.69,2535095.0,Reviewed,No,Normal price movement
+2025-09-02,SEC003,JPM,JPMorgan Chase & Co.,Equity,USD,Reuters,226.23,224.46,-0.78,4530649.0,Reviewed,No,Normal price movement
+2025-09-03,SEC003,JPM,JPMorgan Chase & Co.,Equity,USD,Reuters,224.46,221.63,-1.26,4691911.0,Reviewed,No,Normal price movement
+2025-09-04,SEC003,JPM,JPMorgan Chase & Co.,Equity,USD,ICE Data Services,221.63,224.08,1.11,4167788.0,Reviewed,No,Normal price movement
+2025-09-05,SEC003,JPM,JPMorgan Chase & Co.,Equity,USD,Bloomberg,224.08,228.75,2.09,3987586.0,Reviewed,No,Normal price movement
+2025-09-08,SEC003,JPM,JPMorgan Chase & Co.,Equity,USD,Internal Feed,228.75,227.99,-0.33,480979.0,Reviewed,No,Normal price movement
+2025-09-09,SEC003,JPM,JPMorgan Chase & Co.,Equity,USD,ICE Data Services,227.99,233.62,2.47,598140.0,Reviewed,No,Normal price movement
+2025-09-10,SEC003,JPM,JPMorgan Chase & Co.,Equity,USD,Internal Feed,233.62,233.51,-0.05,499705.0,Reviewed,No,Normal price movement
+2025-09-11,SEC003,JPM,JPMorgan Chase & Co.,Equity,USD,Reuters,233.51,228.93,-1.96,2598757.0,Reviewed,No,Normal price movement
+2025-09-12,SEC003,JPM,JPMorgan Chase & Co.,Equity,USD,Bloomberg,228.93,235.26,2.77,3541120.0,Reviewed,No,Normal price movement
+2025-09-15,SEC003,JPM,JPMorgan Chase & Co.,Equity,USD,Reuters,235.26,238.89,1.54,3763812.0,Reviewed,No,Normal price movement
+2025-09-16,SEC003,JPM,JPMorgan Chase & Co.,Equity,USD,ICE Data Services,238.89,243.71,2.02,2611715.0,Reviewed,No,Normal price movement
+2025-09-17,SEC003,JPM,JPMorgan Chase & Co.,Equity,USD,Bloomberg,243.71,245.21,0.61,1793051.0,Reviewed,No,Normal price movement
+2025-09-18,SEC003,JPM,JPMorgan Chase & Co.,Equity,USD,Reuters,245.21,241.97,-1.32,2062134.0,Reviewed,No,Normal price movement
+2025-09-19,SEC003,JPM,JPMorgan Chase & Co.,Equity,USD,Reuters,241.97,242.68,0.29,3476893.0,Reviewed,No,Normal price movement
+2025-09-22,SEC003,JPM,JPMorgan Chase & Co.,Equity,USD,Internal Feed,242.68,245.25,1.06,323802.0,Reviewed,No,Normal price movement
+2025-07-01,SEC004,TSLA,Tesla Inc.,Equity,USD,Reuters,240.0,237.15,-1.19,3858690.0,Reviewed,No,Normal price movement
+2025-07-02,SEC004,TSLA,Tesla Inc.,Equity,USD,Bloomberg,237.15,239.64,1.05,4997513.0,Reviewed,No,Normal price movement
+2025-07-03,SEC004,TSLA,Tesla Inc.,Equity,USD,Reuters,239.64,238.64,-0.42,1299813.0,Reviewed,No,Normal price movement
+2025-07-04,SEC004,TSLA,Tesla Inc.,Equity,USD,ICE Data Services,238.64,243.0,1.83,1441861.0,Reviewed,No,Normal price movement
+2025-07-07,SEC004,TSLA,Tesla Inc.,Equity,USD,ICE Data Services,243.0,244.29,0.53,2471041.0,Reviewed,No,Normal price movement
+2025-07-08,SEC004,TSLA,Tesla Inc.,Equity,USD,Internal Feed,244.29,239.16,-2.1,3426486.0,Reviewed,No,Normal price movement
+2025-07-09,SEC004,TSLA,Tesla Inc.,Equity,USD,ICE Data Services,239.16,239.16,0.0,724795.0,Reviewed,No,Normal price movement
+2025-07-10,SEC004,TSLA,Tesla Inc.,Equity,USD,Bloomberg,239.16,244.38,2.18,2150238.0,Reviewed,No,Normal price movement
+2025-07-11,SEC004,TSLA,Tesla Inc.,Equity,USD,Bloomberg,244.38,238.78,-2.29,4875119.0,Reviewed,No,Normal price movement
+2025-07-14,SEC004,TSLA,Tesla Inc.,Equity,USD,Bloomberg,238.78,245.46,2.8,2310822.0,Reviewed,No,Normal price movement
+2025-07-15,SEC004,TSLA,Tesla Inc.,Equity,USD,Bloomberg,245.46,249.08,1.47,4403384.0,Reviewed,No,Normal price movement
+2025-07-16,SEC004,TSLA,Tesla Inc.,Equity,USD,Internal Feed,249.08,254.89,2.33,4960100.0,Reviewed,No,Normal price movement
+2025-07-17,SEC004,TSLA,Tesla Inc.,Equity,USD,Internal Feed,254.89,256.81,0.75,815396.0,Reviewed,No,Normal price movement
+2025-07-18,SEC004,TSLA,Tesla Inc.,Equity,USD,Internal Feed,256.81,254.62,-0.85,927447.0,Reviewed,No,Normal price movement
+2025-07-21,SEC004,TSLA,Tesla Inc.,Equity,USD,Reuters,254.62,252.2,-0.95,2467746.0,Reviewed,No,Normal price movement
+2025-07-22,SEC004,TSLA,Tesla Inc.,Equity,USD,Internal Feed,252.2,256.62,1.76,3865356.0,Reviewed,No,Normal price movement
+2025-07-23,SEC004,TSLA,Tesla Inc.,Equity,USD,Bloomberg,256.62,253.96,-1.04,3440466.0,Reviewed,No,Normal price movement
+2025-07-24,SEC004,TSLA,Tesla Inc.,Equity,USD,Bloomberg,253.96,256.2,0.88,3516571.0,Reviewed,No,Normal price movement
+2025-07-25,SEC004,TSLA,Tesla Inc.,Equity,USD,Bloomberg,256.2,251.72,-1.75,4231663.0,Reviewed,No,Normal price movement
+2025-07-28,SEC004,TSLA,Tesla Inc.,Equity,USD,Internal Feed,251.72,255.38,1.46,4657188.0,Reviewed,No,Normal price movement
+2025-07-29,SEC004,TSLA,Tesla Inc.,Equity,USD,Reuters,255.38,261.5,2.39,4116057.0,Reviewed,No,Normal price movement
+2025-07-30,SEC004,TSLA,Tesla Inc.,Equity,USD,Bloomberg,261.5,254.6,-2.64,2057372.0,Reviewed,No,Normal price movement
+2025-07-31,SEC004,TSLA,Tesla Inc.,Equity,USD,Reuters,254.6,,,,Needs Review,Yes,Missing vendor price
+2025-08-01,SEC004,TSLA,Tesla Inc.,Equity,USD,Internal Feed,254.6,248.8,-2.28,1001780.0,Reviewed,No,Normal price movement
+2025-08-04,SEC004,TSLA,Tesla Inc.,Equity,USD,Internal Feed,248.8,255.03,2.5,1341603.0,Reviewed,No,Normal price movement
+2025-08-05,SEC004,TSLA,Tesla Inc.,Equity,USD,Internal Feed,255.03,261.21,2.42,2343654.0,Reviewed,No,Normal price movement
+2025-08-06,SEC004,TSLA,Tesla Inc.,Equity,USD,Internal Feed,261.21,266.1,1.87,2094563.0,Reviewed,No,Normal price movement
+2025-08-07,SEC004,TSLA,Tesla Inc.,Equity,USD,Internal Feed,266.1,266.87,0.29,4313433.0,Reviewed,No,Normal price movement
+2025-08-08,SEC004,TSLA,Tesla Inc.,Equity,USD,Reuters,266.87,272.31,2.04,3530789.0,Reviewed,No,Normal price movement
+2025-08-11,SEC004,TSLA,Tesla Inc.,Equity,USD,ICE Data Services,272.31,278.93,2.43,71518.0,Reviewed,No,Normal price movement
+2025-08-12,SEC004,TSLA,Tesla Inc.,Equity,USD,ICE Data Services,278.93,282.46,1.27,4914749.0,Reviewed,No,Normal price movement
+2025-08-13,SEC004,TSLA,Tesla Inc.,Equity,USD,Internal Feed,282.46,288.24,2.05,4112950.0,Reviewed,No,Normal price movement
+2025-08-14,SEC004,TSLA,Tesla Inc.,Equity,USD,ICE Data Services,288.24,285.53,-0.94,3214267.0,Reviewed,No,Normal price movement
+2025-08-15,SEC004,TSLA,Tesla Inc.,Equity,USD,Internal Feed,285.53,292.46,2.42,2053246.0,Reviewed,No,Normal price movement
+2025-08-18,SEC004,TSLA,Tesla Inc.,Equity,USD,Internal Feed,292.46,288.09,-1.49,416140.0,Reviewed,No,Normal price movement
+2025-08-19,SEC004,TSLA,Tesla Inc.,Equity,USD,ICE Data Services,288.09,292.04,1.37,3247998.0,Reviewed,No,Normal price movement
+2025-08-20,SEC004,TSLA,Tesla Inc.,Equity,USD,Internal Feed,292.04,300.03,2.74,1325951.0,Reviewed,No,Normal price movement
+2025-08-21,SEC004,TSLA,Tesla Inc.,Equity,USD,Internal Feed,300.03,307.84,2.6,2834973.0,Reviewed,No,Normal price movement
+2025-08-22,SEC004,TSLA,Tesla Inc.,Equity,USD,Bloomberg,307.84,314.29,2.1,4461997.0,Reviewed,No,Normal price movement
+2025-08-25,SEC004,TSLA,Tesla Inc.,Equity,USD,Internal Feed,314.29,305.76,-2.71,1344875.0,Reviewed,No,Normal price movement
+2025-08-26,SEC004,TSLA,Tesla Inc.,Equity,USD,Bloomberg,305.76,305.24,-0.17,2890057.0,Reviewed,No,Normal price movement
+2025-08-27,SEC004,TSLA,Tesla Inc.,Equity,USD,Internal Feed,305.24,307.8,0.84,4526348.0,Reviewed,No,Normal price movement
+2025-08-28,SEC004,TSLA,Tesla Inc.,Equity,USD,Internal Feed,307.8,315.63,2.54,4143200.0,Reviewed,No,Normal price movement
+2025-08-29,SEC004,TSLA,Tesla Inc.,Equity,USD,Bloomberg,315.63,317.7,0.66,2460709.0,Reviewed,No,Normal price movement
+2025-09-01,SEC004,TSLA,Tesla Inc.,Equity,USD,Reuters,317.7,322.09,1.38,875800.0,Reviewed,No,Normal price movement
+2025-09-02,SEC004,TSLA,Tesla Inc.,Equity,USD,Bloomberg,322.09,321.08,-0.32,292827.0,Reviewed,No,Normal price movement
+2025-09-03,SEC004,TSLA,Tesla Inc.,Equity,USD,Bloomberg,321.08,317.92,-0.98,3057008.0,Reviewed,No,Normal price movement
+2025-09-04,SEC004,TSLA,Tesla Inc.,Equity,USD,ICE Data Services,317.92,316.68,-0.39,3506540.0,Reviewed,No,Normal price movement
+2025-09-05,SEC004,TSLA,Tesla Inc.,Equity,USD,Reuters,316.68,310.83,-1.85,3259014.0,Reviewed,No,Normal price movement
+2025-09-08,SEC004,TSLA,Tesla Inc.,Equity,USD,Reuters,310.83,310.79,-0.01,1997737.0,Reviewed,No,Normal price movement
+2025-09-09,SEC004,TSLA,Tesla Inc.,Equity,USD,Internal Feed,310.79,313.19,0.77,128831.0,Reviewed,No,Normal price movement
+2025-09-10,SEC004,TSLA,Tesla Inc.,Equity,USD,Internal Feed,313.19,320.23,2.25,1375195.0,Reviewed,No,Normal price movement
+2025-09-11,SEC004,TSLA,Tesla Inc.,Equity,USD,Bloomberg,320.23,319.18,-0.33,4978908.0,Reviewed,No,Normal price movement
+2025-09-12,SEC004,TSLA,Tesla Inc.,Equity,USD,ICE Data Services,319.18,321.67,0.78,2147975.0,Reviewed,No,Normal price movement
+2025-09-15,SEC004,TSLA,Tesla Inc.,Equity,USD,Internal Feed,321.67,327.89,1.93,3277040.0,Reviewed,No,Normal price movement
+2025-09-16,SEC004,TSLA,Tesla Inc.,Equity,USD,Internal Feed,327.89,320.66,-2.2,3061167.0,Reviewed,No,Normal price movement
+2025-09-17,SEC004,TSLA,Tesla Inc.,Equity,USD,ICE Data Services,320.66,329.51,2.76,3370259.0,Reviewed,No,Normal price movement
+2025-09-18,SEC004,TSLA,Tesla Inc.,Equity,USD,ICE Data Services,329.51,320.43,-2.75,461412.0,Reviewed,No,Normal price movement
+2025-09-19,SEC004,TSLA,Tesla Inc.,Equity,USD,Internal Feed,320.43,326.41,1.86,1980372.0,Reviewed,No,Normal price movement
+2025-09-22,SEC004,TSLA,Tesla Inc.,Equity,USD,ICE Data Services,326.41,321.27,-1.57,2152409.0,Reviewed,No,Normal price movement
+2025-07-01,SEC005,SPY,SPDR S&P 500 ETF,ETF,USD,Reuters,515.0,516.59,0.31,380700.0,Reviewed,No,Normal price movement
+2025-07-02,SEC005,SPY,SPDR S&P 500 ETF,ETF,USD,ICE Data Services,516.59,569.28,10.2,1152362.0,Needs Review,Yes,Large market movement
+2025-07-03,SEC005,SPY,SPDR S&P 500 ETF,ETF,USD,Bloomberg,569.28,574.87,0.98,3535492.0,Reviewed,No,Normal price movement
+2025-07-04,SEC005,SPY,SPDR S&P 500 ETF,ETF,USD,Reuters,574.87,570.75,-0.72,3119035.0,Reviewed,No,Normal price movement
+2025-07-07,SEC005,SPY,SPDR S&P 500 ETF,ETF,USD,ICE Data Services,570.75,575.27,0.79,4092032.0,Reviewed,No,Normal price movement
+2025-07-08,SEC005,SPY,SPDR S&P 500 ETF,ETF,USD,ICE Data Services,575.27,578.68,0.59,1016113.0,Reviewed,No,Normal price movement
+2025-07-09,SEC005,SPY,SPDR S&P 500 ETF,ETF,USD,Internal Feed,578.68,585.1,1.11,1942593.0,Reviewed,No,Normal price movement
+2025-07-10,SEC005,SPY,SPDR S&P 500 ETF,ETF,USD,Internal Feed,585.1,591.67,1.12,3118343.0,Reviewed,No,Normal price movement
+2025-07-11,SEC005,SPY,SPDR S&P 500 ETF,ETF,USD,Bloomberg,591.67,,,,Needs Review,Yes,Missing vendor price
+2025-07-14,SEC005,SPY,SPDR S&P 500 ETF,ETF,USD,Bloomberg,591.67,591.02,-0.11,2249169.0,Reviewed,No,Normal price movement
+2025-07-15,SEC005,SPY,SPDR S&P 500 ETF,ETF,USD,Internal Feed,591.02,595.6,0.77,958872.0,Reviewed,No,Normal price movement
+2025-07-16,SEC005,SPY,SPDR S&P 500 ETF,ETF,USD,Reuters,595.6,595.19,-0.07,4759426.0,Reviewed,No,Normal price movement
+2025-07-17,SEC005,SPY,SPDR S&P 500 ETF,ETF,USD,ICE Data Services,595.19,601.12,1.0,580302.0,Reviewed,No,Normal price movement
+2025-07-18,SEC005,SPY,SPDR S&P 500 ETF,ETF,USD,Internal Feed,601.12,607.03,0.98,3475033.0,Reviewed,No,Normal price movement
+2025-07-21,SEC005,SPY,SPDR S&P 500 ETF,ETF,USD,Bloomberg,607.03,601.78,-0.86,2603195.0,Reviewed,No,Normal price movement
+2025-07-22,SEC005,SPY,SPDR S&P 500 ETF,ETF,USD,Internal Feed,601.78,596.24,-0.92,4559267.0,Reviewed,No,Normal price movement
+2025-07-23,SEC005,SPY,SPDR S&P 500 ETF,ETF,USD,Reuters,596.24,594.64,-0.27,4581463.0,Reviewed,No,Normal price movement
+2025-07-24,SEC005,SPY,SPDR S&P 500 ETF,ETF,USD,Internal Feed,594.64,595.89,0.21,3530303.0,Reviewed,No,Normal price movement
+2025-07-25,SEC005,SPY,SPDR S&P 500 ETF,ETF,USD,Bloomberg,595.89,600.66,0.8,2396630.0,Reviewed,No,Normal price movement
+2025-07-28,SEC005,SPY,SPDR S&P 500 ETF,ETF,USD,Bloomberg,600.66,603.4,0.46,3780379.0,Reviewed,No,Normal price movement
+2025-07-29,SEC005,SPY,SPDR S&P 500 ETF,ETF,USD,Reuters,603.4,608.55,0.85,3131428.0,Reviewed,No,Normal price movement
+2025-07-30,SEC005,SPY,SPDR S&P 500 ETF,ETF,USD,ICE Data Services,608.55,602.13,-1.05,1074749.0,Reviewed,No,Normal price movement
+2025-07-31,SEC005,SPY,SPDR S&P 500 ETF,ETF,USD,Internal Feed,602.13,596.23,-0.98,229159.0,Reviewed,No,Normal price movement
+2025-08-01,SEC005,SPY,SPDR S&P 500 ETF,ETF,USD,Bloomberg,596.23,600.34,0.69,1106326.0,Reviewed,No,Normal price movement
+2025-08-04,SEC005,SPY,SPDR S&P 500 ETF,ETF,USD,Reuters,600.34,594.12,-1.04,1787761.0,Reviewed,No,Normal price movement
+2025-08-05,SEC005,SPY,SPDR S&P 500 ETF,ETF,USD,Reuters,594.12,598.58,0.75,1287774.0,Reviewed,No,Normal price movement
+2025-08-06,SEC005,SPY,SPDR S&P 500 ETF,ETF,USD,Bloomberg,598.58,595.39,-0.53,1140453.0,Reviewed,No,Normal price movement
+2025-08-07,SEC005,SPY,SPDR S&P 500 ETF,ETF,USD,ICE Data Services,595.39,599.65,0.72,266259.0,Reviewed,No,Normal price movement
+2025-08-08,SEC005,SPY,SPDR S&P 500 ETF,ETF,USD,Reuters,599.65,592.67,-1.16,2045914.0,Reviewed,No,Normal price movement
+2025-08-11,SEC005,SPY,SPDR S&P 500 ETF,ETF,USD,ICE Data Services,592.67,585.78,-1.16,1113327.0,Reviewed,No,Normal price movement
+2025-08-12,SEC005,SPY,SPDR S&P 500 ETF,ETF,USD,Internal Feed,585.78,586.15,0.06,4045040.0,Reviewed,No,Normal price movement
+2025-08-13,SEC005,SPY,SPDR S&P 500 ETF,ETF,USD,Internal Feed,586.15,590.06,0.67,964811.0,Reviewed,No,Normal price movement
+2025-08-14,SEC005,SPY,SPDR S&P 500 ETF,ETF,USD,Internal Feed,590.06,590.11,0.01,413772.0,Reviewed,No,Normal price movement
+2025-08-15,SEC005,SPY,SPDR S&P 500 ETF,ETF,USD,ICE Data Services,590.11,589.52,-0.1,560240.0,Reviewed,No,Normal price movement
+2025-08-18,SEC005,SPY,SPDR S&P 500 ETF,ETF,USD,Internal Feed,589.52,594.43,0.83,955649.0,Reviewed,No,Normal price movement
+2025-08-19,SEC005,SPY,SPDR S&P 500 ETF,ETF,USD,Internal Feed,594.43,597.46,0.51,727719.0,Reviewed,No,Normal price movement
+2025-08-20,SEC005,SPY,SPDR S&P 500 ETF,ETF,USD,ICE Data Services,597.46,599.02,0.26,2357001.0,Reviewed,No,Normal price movement
+2025-08-21,SEC005,SPY,SPDR S&P 500 ETF,ETF,USD,ICE Data Services,599.02,597.3,-0.29,2523781.0,Reviewed,No,Normal price movement
+2025-08-22,SEC005,SPY,SPDR S&P 500 ETF,ETF,USD,Internal Feed,597.3,597.38,0.01,1009774.0,Reviewed,No,Normal price movement
+2025-08-25,SEC005,SPY,SPDR S&P 500 ETF,ETF,USD,Reuters,597.38,596.38,-0.17,3521319.0,Reviewed,No,Normal price movement
+2025-08-26,SEC005,SPY,SPDR S&P 500 ETF,ETF,USD,ICE Data Services,596.38,601.07,0.79,847637.0,Reviewed,No,Normal price movement
+2025-08-27,SEC005,SPY,SPDR S&P 500 ETF,ETF,USD,ICE Data Services,601.07,600.01,-0.18,3189864.0,Reviewed,No,Normal price movement
+2025-08-28,SEC005,SPY,SPDR S&P 500 ETF,ETF,USD,Reuters,600.01,602.7,0.45,815248.0,Reviewed,No,Normal price movement
+2025-08-29,SEC005,SPY,SPDR S&P 500 ETF,ETF,USD,Bloomberg,602.7,596.82,-0.98,3175988.0,Reviewed,No,Normal price movement
+2025-09-01,SEC005,SPY,SPDR S&P 500 ETF,ETF,USD,Reuters,596.82,597.62,0.14,4760928.0,Reviewed,No,Normal price movement
+2025-09-02,SEC005,SPY,SPDR S&P 500 ETF,ETF,USD,ICE Data Services,597.62,600.06,0.41,3597851.0,Reviewed,No,Normal price movement
+2025-09-03,SEC005,SPY,SPDR S&P 500 ETF,ETF,USD,Bloomberg,600.06,606.81,1.12,2999822.0,Reviewed,No,Normal price movement
+2025-09-04,SEC005,SPY,SPDR S&P 500 ETF,ETF,USD,Bloomberg,606.81,607.94,0.19,4094897.0,Reviewed,No,Normal price movement
+2025-09-05,SEC005,SPY,SPDR S&P 500 ETF,ETF,USD,Reuters,607.94,613.01,0.83,4716293.0,Reviewed,No,Normal price movement
+2025-09-08,SEC005,SPY,SPDR S&P 500 ETF,ETF,USD,ICE Data Services,613.01,607.34,-0.92,1947159.0,Reviewed,No,Normal price movement
+2025-09-09,SEC005,SPY,SPDR S&P 500 ETF,ETF,USD,Internal Feed,607.34,612.38,0.83,4720271.0,Reviewed,No,Normal price movement
+2025-09-10,SEC005,SPY,SPDR S&P 500 ETF,ETF,USD,Bloomberg,612.38,613.98,0.26,2293514.0,Reviewed,No,Normal price movement
+2025-09-11,SEC005,SPY,SPDR S&P 500 ETF,ETF,USD,Bloomberg,613.98,609.27,-0.77,2641951.0,Reviewed,No,Normal price movement
+2025-09-12,SEC005,SPY,SPDR S&P 500 ETF,ETF,USD,ICE Data Services,609.27,607.09,-0.36,1251680.0,Reviewed,No,Normal price movement
+2025-09-15,SEC005,SPY,SPDR S&P 500 ETF,ETF,USD,Internal Feed,607.09,600.82,-1.03,307170.0,Reviewed,No,Normal price movement
+2025-09-16,SEC005,SPY,SPDR S&P 500 ETF,ETF,USD,Bloomberg,600.82,604.37,0.59,3571810.0,Reviewed,No,Normal price movement
+2025-09-17,SEC005,SPY,SPDR S&P 500 ETF,ETF,USD,Internal Feed,604.37,602.06,-0.38,2771120.0,Reviewed,No,Normal price movement
+2025-09-18,SEC005,SPY,SPDR S&P 500 ETF,ETF,USD,Bloomberg,602.06,607.6,0.92,467438.0,Reviewed,No,Normal price movement
+2025-09-19,SEC005,SPY,SPDR S&P 500 ETF,ETF,USD,Bloomberg,607.6,604.28,-0.55,4124025.0,Reviewed,No,Normal price movement
+2025-09-22,SEC005,SPY,SPDR S&P 500 ETF,ETF,USD,Internal Feed,604.28,603.03,-0.21,4347872.0,Reviewed,No,Normal price movement
+2025-07-01,SEC006,QQQ,Invesco QQQ Trust,ETF,USD,Bloomberg,440.0,438.37,-0.37,4132171.0,Reviewed,No,Normal price movement
+2025-07-02,SEC006,QQQ,Invesco QQQ Trust,ETF,USD,ICE Data Services,438.37,433.58,-1.09,509544.0,Reviewed,No,Normal price movement
+2025-07-03,SEC006,QQQ,Invesco QQQ Trust,ETF,USD,Bloomberg,433.58,430.51,-0.71,1201208.0,Reviewed,No,Normal price movement
+2025-07-04,SEC006,QQQ,Invesco QQQ Trust,ETF,USD,ICE Data Services,430.51,428.33,-0.51,4222370.0,Reviewed,No,Normal price movement
+2025-07-07,SEC006,QQQ,Invesco QQQ Trust,ETF,USD,Internal Feed,428.33,425.0,-0.78,1980308.0,Reviewed,No,Normal price movement
+2025-07-08,SEC006,QQQ,Invesco QQQ Trust,ETF,USD,ICE Data Services,425.0,420.63,-1.03,404857.0,Reviewed,No,Normal price movement
+2025-07-09,SEC006,QQQ,Invesco QQQ Trust,ETF,USD,Internal Feed,420.63,415.77,-1.16,2676142.0,Reviewed,No,Normal price movement
+2025-07-10,SEC006,QQQ,Invesco QQQ Trust,ETF,USD,Internal Feed,415.77,416.51,0.18,3553870.0,Reviewed,No,Normal price movement
+2025-07-11,SEC006,QQQ,Invesco QQQ Trust,ETF,USD,ICE Data Services,416.51,458.99,10.2,1491776.0,Needs Review,Yes,Large market movement
+2025-07-14,SEC006,QQQ,Invesco QQQ Trust,ETF,USD,Internal Feed,458.99,462.65,0.8,789287.0,Reviewed,No,Normal price movement
+2025-07-15,SEC006,QQQ,Invesco QQQ Trust,ETF,USD,Internal Feed,462.65,466.47,0.83,4989810.0,Reviewed,No,Normal price movement
+2025-07-16,SEC006,QQQ,Invesco QQQ Trust,ETF,USD,Internal Feed,466.47,466.74,0.06,2652771.0,Reviewed,No,Normal price movement
+2025-07-17,SEC006,QQQ,Invesco QQQ Trust,ETF,USD,ICE Data Services,466.74,463.62,-0.67,690716.0,Reviewed,No,Normal price movement
+2025-07-18,SEC006,QQQ,Invesco QQQ Trust,ETF,USD,Bloomberg,463.62,463.96,0.07,2980772.0,Reviewed,No,Normal price movement
+2025-07-21,SEC006,QQQ,Invesco QQQ Trust,ETF,USD,ICE Data Services,463.96,466.49,0.55,1288912.0,Reviewed,No,Normal price movement
+2025-07-22,SEC006,QQQ,Invesco QQQ Trust,ETF,USD,Reuters,466.49,462.05,-0.95,1505415.0,Reviewed,No,Normal price movement
+2025-07-23,SEC006,QQQ,Invesco QQQ Trust,ETF,USD,Reuters,462.05,464.93,0.62,1536009.0,Reviewed,No,Normal price movement
+2025-07-24,SEC006,QQQ,Invesco QQQ Trust,ETF,USD,Internal Feed,464.93,464.53,-0.09,4910930.0,Reviewed,No,Normal price movement
+2025-07-25,SEC006,QQQ,Invesco QQQ Trust,ETF,USD,Internal Feed,464.53,466.55,0.43,2761267.0,Reviewed,No,Normal price movement
+2025-07-28,SEC006,QQQ,Invesco QQQ Trust,ETF,USD,ICE Data Services,466.55,462.64,-0.84,3759510.0,Reviewed,No,Normal price movement
+2025-07-29,SEC006,QQQ,Invesco QQQ Trust,ETF,USD,ICE Data Services,462.64,465.93,0.71,3002305.0,Reviewed,No,Normal price movement
+2025-07-30,SEC006,QQQ,Invesco QQQ Trust,ETF,USD,Bloomberg,465.93,463.81,-0.46,527228.0,Reviewed,No,Normal price movement
+2025-07-31,SEC006,QQQ,Invesco QQQ Trust,ETF,USD,ICE Data Services,463.81,467.5,0.8,807461.0,Reviewed,No,Normal price movement
+2025-08-01,SEC006,QQQ,Invesco QQQ Trust,ETF,USD,Internal Feed,467.5,467.09,-0.09,394123.0,Reviewed,No,Normal price movement
+2025-08-04,SEC006,QQQ,Invesco QQQ Trust,ETF,USD,Internal Feed,467.09,471.67,0.98,1629067.0,Reviewed,No,Normal price movement
+2025-08-05,SEC006,QQQ,Invesco QQQ Trust,ETF,USD,ICE Data Services,471.67,472.86,0.25,569034.0,Reviewed,No,Normal price movement
+2025-08-06,SEC006,QQQ,Invesco QQQ Trust,ETF,USD,Internal Feed,472.86,468.36,-0.95,2930964.0,Reviewed,No,Normal price movement
+2025-08-07,SEC006,QQQ,Invesco QQQ Trust,ETF,USD,Bloomberg,468.36,468.41,0.01,2128224.0,Reviewed,No,Normal price movement
+2025-08-08,SEC006,QQQ,Invesco QQQ Trust,ETF,USD,Internal Feed,468.41,473.93,1.18,1381659.0,Reviewed,No,Normal price movement
+2025-08-11,SEC006,QQQ,Invesco QQQ Trust,ETF,USD,ICE Data Services,473.93,472.49,-0.31,3479006.0,Reviewed,No,Normal price movement
+2025-08-12,SEC006,QQQ,Invesco QQQ Trust,ETF,USD,ICE Data Services,472.49,474.51,0.43,2857242.0,Reviewed,No,Normal price movement
+2025-08-13,SEC006,QQQ,Invesco QQQ Trust,ETF,USD,Bloomberg,474.51,472.57,-0.41,3292735.0,Reviewed,No,Normal price movement
+2025-08-14,SEC006,QQQ,Invesco QQQ Trust,ETF,USD,ICE Data Services,472.57,469.76,-0.6,1311422.0,Reviewed,No,Normal price movement
+2025-08-15,SEC006,QQQ,Invesco QQQ Trust,ETF,USD,ICE Data Services,469.76,465.04,-1.0,2984509.0,Reviewed,No,Normal price movement
+2025-08-18,SEC006,QQQ,Invesco QQQ Trust,ETF,USD,ICE Data Services,465.04,470.26,1.12,3337981.0,Reviewed,No,Normal price movement
+2025-08-19,SEC006,QQQ,Invesco QQQ Trust,ETF,USD,Reuters,470.26,471.34,0.23,2646961.0,Reviewed,No,Normal price movement
+2025-08-20,SEC006,QQQ,Invesco QQQ Trust,ETF,USD,Internal Feed,471.34,472.96,0.34,1122011.0,Reviewed,No,Normal price movement
+2025-08-21,SEC006,QQQ,Invesco QQQ Trust,ETF,USD,Bloomberg,472.96,474.62,0.35,3085234.0,Reviewed,No,Normal price movement
+2025-08-22,SEC006,QQQ,Invesco QQQ Trust,ETF,USD,Bloomberg,474.62,473.05,-0.33,1846778.0,Reviewed,No,Normal price movement
+2025-08-25,SEC006,QQQ,Invesco QQQ Trust,ETF,USD,ICE Data Services,473.05,478.13,1.07,1950380.0,Reviewed,No,Normal price movement
+2025-08-26,SEC006,QQQ,Invesco QQQ Trust,ETF,USD,Reuters,478.13,474.17,-0.83,898430.0,Reviewed,No,Normal price movement
+2025-08-27,SEC006,QQQ,Invesco QQQ Trust,ETF,USD,Bloomberg,474.17,476.02,0.39,1149319.0,Reviewed,No,Normal price movement
+2025-08-28,SEC006,QQQ,Invesco QQQ Trust,ETF,USD,Internal Feed,476.02,472.07,-0.83,1438643.0,Reviewed,No,Normal price movement
+2025-08-29,SEC006,QQQ,Invesco QQQ Trust,ETF,USD,Internal Feed,472.07,466.9,-1.1,2042547.0,Reviewed,No,Normal price movement
+2025-09-01,SEC006,QQQ,Invesco QQQ Trust,ETF,USD,Internal Feed,466.9,468.14,0.27,3815880.0,Reviewed,No,Normal price movement
+2025-09-02,SEC006,QQQ,Invesco QQQ Trust,ETF,USD,Reuters,468.14,468.52,0.08,3984388.0,Reviewed,No,Normal price movement
+2025-09-03,SEC006,QQQ,Invesco QQQ Trust,ETF,USD,Reuters,468.52,467.03,-0.32,3745998.0,Reviewed,No,Normal price movement
+2025-09-04,SEC006,QQQ,Invesco QQQ Trust,ETF,USD,Internal Feed,467.03,470.05,0.65,4268687.0,Reviewed,No,Normal price movement
+2025-09-05,SEC006,QQQ,Invesco QQQ Trust,ETF,USD,Internal Feed,470.05,475.31,1.12,1210971.0,Reviewed,No,Normal price movement
+2025-09-08,SEC006,QQQ,Invesco QQQ Trust,ETF,USD,ICE Data Services,475.31,470.2,-1.07,3163952.0,Reviewed,No,Normal price movement
+2025-09-09,SEC006,QQQ,Invesco QQQ Trust,ETF,USD,Bloomberg,470.2,472.59,0.51,1095872.0,Reviewed,No,Normal price movement
+2025-09-10,SEC006,QQQ,Invesco QQQ Trust,ETF,USD,ICE Data Services,472.59,467.87,-1.0,3819162.0,Reviewed,No,Normal price movement
+2025-09-11,SEC006,QQQ,Invesco QQQ Trust,ETF,USD,Reuters,467.87,471.59,0.79,1912589.0,Reviewed,No,Normal price movement
+2025-09-12,SEC006,QQQ,Invesco QQQ Trust,ETF,USD,Internal Feed,471.59,475.94,0.92,3530407.0,Reviewed,No,Normal price movement
+2025-09-15,SEC006,QQQ,Invesco QQQ Trust,ETF,USD,Bloomberg,475.94,474.76,-0.25,3289396.0,Reviewed,No,Normal price movement
+2025-09-16,SEC006,QQQ,Invesco QQQ Trust,ETF,USD,Bloomberg,474.76,511.79,7.8,2862619.0,Needs Review,Yes,Large market movement
+2025-09-17,SEC006,QQQ,Invesco QQQ Trust,ETF,USD,Reuters,511.79,507.34,-0.87,4013239.0,Reviewed,No,Normal price movement
+2025-09-18,SEC006,QQQ,Invesco QQQ Trust,ETF,USD,Reuters,507.34,510.49,0.62,94050.0,Reviewed,No,Normal price movement
+2025-09-19,SEC006,QQQ,Invesco QQQ Trust,ETF,USD,Bloomberg,510.49,504.6,-1.15,1304261.0,Reviewed,No,Normal price movement
+2025-09-22,SEC006,QQQ,Invesco QQQ Trust,ETF,USD,Internal Feed,504.6,499.89,-0.93,2576239.0,Reviewed,No,Normal price movement
+2025-07-01,SEC007,BTC-USD,Bitcoin USD,Crypto,USD,Bloomberg,65000.0,62354.33,-4.07,3884546.0,Reviewed,No,Normal price movement
+2025-07-02,SEC007,BTC-USD,Bitcoin USD,Crypto,USD,Bloomberg,62354.33,60170.51,-3.5,4546745.0,Reviewed,No,Normal price movement
+2025-07-03,SEC007,BTC-USD,Bitcoin USD,Crypto,USD,Bloomberg,60170.51,60885.09,1.19,1254409.0,Reviewed,No,Normal price movement
+2025-07-04,SEC007,BTC-USD,Bitcoin USD,Crypto,USD,ICE Data Services,60885.09,60497.35,-0.64,2067999.0,Reviewed,No,Normal price movement
+2025-07-07,SEC007,BTC-USD,Bitcoin USD,Crypto,USD,Internal Feed,60497.35,58794.85,-2.81,4441306.0,Reviewed,No,Normal price movement
+2025-07-08,SEC007,BTC-USD,Bitcoin USD,Crypto,USD,ICE Data Services,58794.85,56507.2,-3.89,4305773.0,Reviewed,No,Normal price movement
+2025-07-09,SEC007,BTC-USD,Bitcoin USD,Crypto,USD,Bloomberg,56507.2,55950.09,-0.99,3295395.0,Reviewed,No,Normal price movement
+2025-07-10,SEC007,BTC-USD,Bitcoin USD,Crypto,USD,ICE Data Services,55950.09,60314.2,7.8,2942412.0,Needs Review,Yes,Large market movement
+2025-07-11,SEC007,BTC-USD,Bitcoin USD,Crypto,USD,Reuters,60314.2,61578.67,2.1,4931358.0,Reviewed,No,Normal price movement
+2025-07-14,SEC007,BTC-USD,Bitcoin USD,Crypto,USD,ICE Data Services,61578.67,59546.99,-3.3,2889940.0,Reviewed,No,Normal price movement
+2025-07-15,SEC007,BTC-USD,Bitcoin USD,Crypto,USD,Reuters,59546.99,61317.6,2.97,4064210.0,Reviewed,No,Normal price movement
+2025-07-16,SEC007,BTC-USD,Bitcoin USD,Crypto,USD,Reuters,61317.6,63036.62,2.8,3889294.0,Reviewed,No,Normal price movement
+2025-07-17,SEC007,BTC-USD,Bitcoin USD,Crypto,USD,Bloomberg,63036.62,63036.62,0.0,1723274.0,Needs Review,Yes,Possible stale price
+2025-07-18,SEC007,BTC-USD,Bitcoin USD,Crypto,USD,Bloomberg,63036.62,61990.44,-1.66,3390545.0,Reviewed,No,Normal price movement
+2025-07-21,SEC007,BTC-USD,Bitcoin USD,Crypto,USD,Internal Feed,61990.44,60614.14,-2.22,1653091.0,Reviewed,No,Normal price movement
+2025-07-22,SEC007,BTC-USD,Bitcoin USD,Crypto,USD,ICE Data Services,60614.14,59833.9,-1.29,2834386.0,Reviewed,No,Normal price movement
+2025-07-23,SEC007,BTC-USD,Bitcoin USD,Crypto,USD,ICE Data Services,59833.9,57811.68,-3.38,3405625.0,Reviewed,No,Normal price movement
+2025-07-24,SEC007,BTC-USD,Bitcoin USD,Crypto,USD,Internal Feed,57811.68,59865.0,3.55,1617136.0,Reviewed,No,Normal price movement
+2025-07-25,SEC007,BTC-USD,Bitcoin USD,Crypto,USD,Internal Feed,59865.0,60899.83,1.73,4406001.0,Reviewed,No,Normal price movement
+2025-07-28,SEC007,BTC-USD,Bitcoin USD,Crypto,USD,ICE Data Services,60899.83,62550.42,2.71,712087.0,Reviewed,No,Normal price movement
+2025-07-29,SEC007,BTC-USD,Bitcoin USD,Crypto,USD,Internal Feed,62550.42,63127.19,0.92,4625770.0,Reviewed,No,Normal price movement
+2025-07-30,SEC007,BTC-USD,Bitcoin USD,Crypto,USD,ICE Data Services,63127.19,62111.41,-1.61,2530007.0,Reviewed,No,Normal price movement
+2025-07-31,SEC007,BTC-USD,Bitcoin USD,Crypto,USD,ICE Data Services,62111.41,61809.08,-0.49,1447917.0,Reviewed,No,Normal price movement
+2025-08-01,SEC007,BTC-USD,Bitcoin USD,Crypto,USD,Internal Feed,61809.08,61809.08,0.0,3007481.0,Needs Review,Yes,Possible stale price
+2025-08-04,SEC007,BTC-USD,Bitcoin USD,Crypto,USD,Internal Feed,61809.08,60554.97,-2.03,531154.0,Reviewed,No,Normal price movement
+2025-08-05,SEC007,BTC-USD,Bitcoin USD,Crypto,USD,Bloomberg,60554.97,61487.91,1.54,4354077.0,Reviewed,No,Normal price movement
+2025-08-06,SEC007,BTC-USD,Bitcoin USD,Crypto,USD,Reuters,61487.91,63993.61,4.08,3725660.0,Reviewed,No,Normal price movement
+2025-08-07,SEC007,BTC-USD,Bitcoin USD,Crypto,USD,Bloomberg,63993.61,61840.91,-3.36,3122985.0,Reviewed,No,Normal price movement
+2025-08-08,SEC007,BTC-USD,Bitcoin USD,Crypto,USD,ICE Data Services,61840.91,61188.91,-1.05,1337132.0,Reviewed,No,Normal price movement
+2025-08-11,SEC007,BTC-USD,Bitcoin USD,Crypto,USD,Internal Feed,61188.91,63660.59,4.04,694961.0,Reviewed,No,Normal price movement
+2025-08-12,SEC007,BTC-USD,Bitcoin USD,Crypto,USD,Reuters,63660.59,63829.38,0.27,2387819.0,Reviewed,No,Normal price movement
+2025-08-13,SEC007,BTC-USD,Bitcoin USD,Crypto,USD,Reuters,63829.38,58467.71,-8.4,4236284.0,Needs Review,Yes,Large market movement
+2025-08-14,SEC007,BTC-USD,Bitcoin USD,Crypto,USD,Internal Feed,58467.71,60643.81,3.72,2233468.0,Reviewed,No,Normal price movement
+2025-08-15,SEC007,BTC-USD,Bitcoin USD,Crypto,USD,Internal Feed,60643.81,59085.95,-2.57,4170485.0,Reviewed,No,Normal price movement
+2025-08-18,SEC007,BTC-USD,Bitcoin USD,Crypto,USD,Reuters,59085.95,57079.23,-3.4,3842008.0,Reviewed,No,Normal price movement
+2025-08-19,SEC007,BTC-USD,Bitcoin USD,Crypto,USD,Reuters,57079.23,59127.3,3.59,786442.0,Reviewed,No,Normal price movement
+2025-08-20,SEC007,BTC-USD,Bitcoin USD,Crypto,USD,ICE Data Services,59127.3,60020.45,1.51,4663710.0,Reviewed,No,Normal price movement
+2025-08-21,SEC007,BTC-USD,Bitcoin USD,Crypto,USD,ICE Data Services,60020.45,62134.36,3.52,1510381.0,Reviewed,No,Normal price movement
+2025-08-22,SEC007,BTC-USD,Bitcoin USD,Crypto,USD,ICE Data Services,62134.36,62183.33,0.08,1735945.0,Reviewed,No,Normal price movement
+2025-08-25,SEC007,BTC-USD,Bitcoin USD,Crypto,USD,Reuters,62183.33,60709.97,-2.37,3077419.0,Reviewed,No,Normal price movement
+2025-08-26,SEC007,BTC-USD,Bitcoin USD,Crypto,USD,ICE Data Services,60709.97,60531.88,-0.29,1138599.0,Reviewed,No,Normal price movement
+2025-08-27,SEC007,BTC-USD,Bitcoin USD,Crypto,USD,Bloomberg,60531.88,58166.13,-3.91,4065333.0,Reviewed,No,Normal price movement
+2025-08-28,SEC007,BTC-USD,Bitcoin USD,Crypto,USD,Internal Feed,58166.13,59575.2,2.42,668665.0,Reviewed,No,Normal price movement
+2025-08-29,SEC007,BTC-USD,Bitcoin USD,Crypto,USD,Reuters,59575.2,62107.99,4.25,3824659.0,Reviewed,No,Normal price movement
+2025-09-01,SEC007,BTC-USD,Bitcoin USD,Crypto,USD,Internal Feed,62107.99,63114.75,1.62,4674668.0,Reviewed,No,Normal price movement
+2025-09-02,SEC007,BTC-USD,Bitcoin USD,Crypto,USD,Reuters,63114.75,64635.83,2.41,4268327.0,Reviewed,No,Normal price movement
+2025-09-03,SEC007,BTC-USD,Bitcoin USD,Crypto,USD,Bloomberg,64635.83,66563.61,2.98,2601181.0,Reviewed,No,Normal price movement
+2025-09-04,SEC007,BTC-USD,Bitcoin USD,Crypto,USD,Reuters,66563.61,64538.54,-3.04,1941381.0,Reviewed,No,Normal price movement
+2025-09-05,SEC007,BTC-USD,Bitcoin USD,Crypto,USD,ICE Data Services,64538.54,67137.74,4.03,2432769.0,Reviewed,No,Normal price movement
+2025-09-08,SEC007,BTC-USD,Bitcoin USD,Crypto,USD,Bloomberg,67137.74,65630.8,-2.24,4670792.0,Reviewed,No,Normal price movement
+2025-09-09,SEC007,BTC-USD,Bitcoin USD,Crypto,USD,ICE Data Services,65630.8,63416.76,-3.37,4525138.0,Reviewed,No,Normal price movement
+2025-09-10,SEC007,BTC-USD,Bitcoin USD,Crypto,USD,Bloomberg,63416.76,63431.45,0.02,4920815.0,Reviewed,No,Normal price movement
+2025-09-11,SEC007,BTC-USD,Bitcoin USD,Crypto,USD,Reuters,63431.45,61554.39,-2.96,2882158.0,Reviewed,No,Normal price movement
+2025-09-12,SEC007,BTC-USD,Bitcoin USD,Crypto,USD,Bloomberg,61554.39,66355.63,7.8,4888307.0,Needs Review,Yes,Large market movement
+2025-09-15,SEC007,BTC-USD,Bitcoin USD,Crypto,USD,ICE Data Services,66355.63,67258.18,1.36,3544583.0,Reviewed,No,Normal price movement
+2025-09-16,SEC007,BTC-USD,Bitcoin USD,Crypto,USD,Bloomberg,67258.18,67246.3,-0.02,2479941.0,Reviewed,No,Normal price movement
+2025-09-17,SEC007,BTC-USD,Bitcoin USD,Crypto,USD,ICE Data Services,67246.3,67143.08,-0.15,3456551.0,Reviewed,No,Normal price movement
+2025-09-18,SEC007,BTC-USD,Bitcoin USD,Crypto,USD,ICE Data Services,67143.08,66862.36,-0.42,1376074.0,Reviewed,No,Normal price movement
+2025-09-19,SEC007,BTC-USD,Bitcoin USD,Crypto,USD,Internal Feed,66862.36,66354.6,-0.76,2903742.0,Reviewed,No,Normal price movement
+2025-09-22,SEC007,BTC-USD,Bitcoin USD,Crypto,USD,Reuters,66354.6,65235.36,-1.69,2947178.0,Reviewed,No,Normal price movement
+2025-07-01,SEC008,BND,Vanguard Total Bond Market ETF,Fixed Income ETF,USD,Internal Feed,72.0,71.36,-0.89,4761471.0,Reviewed,No,Normal price movement
+2025-07-02,SEC008,BND,Vanguard Total Bond Market ETF,Fixed Income ETF,USD,Bloomberg,71.36,71.05,-0.43,2293715.0,Reviewed,No,Normal price movement
+2025-07-03,SEC008,BND,Vanguard Total Bond Market ETF,Fixed Income ETF,USD,Internal Feed,71.05,70.62,-0.6,2484474.0,Reviewed,No,Normal price movement
+2025-07-04,SEC008,BND,Vanguard Total Bond Market ETF,Fixed Income ETF,USD,Internal Feed,70.62,71.24,0.87,1389657.0,Reviewed,No,Normal price movement
+2025-07-07,SEC008,BND,Vanguard Total Bond Market ETF,Fixed Income ETF,USD,ICE Data Services,71.24,71.98,1.04,1642443.0,Reviewed,No,Normal price movement
+2025-07-08,SEC008,BND,Vanguard Total Bond Market ETF,Fixed Income ETF,USD,Reuters,71.98,71.98,-0.0,4233899.0,Reviewed,No,Normal price movement
+2025-07-09,SEC008,BND,Vanguard Total Bond Market ETF,Fixed Income ETF,USD,ICE Data Services,71.98,71.97,-0.01,3348754.0,Reviewed,No,Normal price movement
+2025-07-10,SEC008,BND,Vanguard Total Bond Market ETF,Fixed Income ETF,USD,Internal Feed,71.97,72.78,1.12,3010298.0,Reviewed,No,Normal price movement
+2025-07-11,SEC008,BND,Vanguard Total Bond Market ETF,Fixed Income ETF,USD,Bloomberg,72.78,71.99,-1.08,3997568.0,Reviewed,No,Normal price movement
+2025-07-14,SEC008,BND,Vanguard Total Bond Market ETF,Fixed Income ETF,USD,ICE Data Services,71.99,72.06,0.09,3664884.0,Reviewed,No,Normal price movement
+2025-07-15,SEC008,BND,Vanguard Total Bond Market ETF,Fixed Income ETF,USD,Reuters,72.06,72.72,0.92,3432740.0,Reviewed,No,Normal price movement
+2025-07-16,SEC008,BND,Vanguard Total Bond Market ETF,Fixed Income ETF,USD,ICE Data Services,72.72,71.93,-1.09,4762861.0,Reviewed,No,Normal price movement
+2025-07-17,SEC008,BND,Vanguard Total Bond Market ETF,Fixed Income ETF,USD,Reuters,71.93,71.69,-0.33,3290928.0,Reviewed,No,Normal price movement
+2025-07-18,SEC008,BND,Vanguard Total Bond Market ETF,Fixed Income ETF,USD,Internal Feed,71.69,72.14,0.63,1046659.0,Reviewed,No,Normal price movement
+2025-07-21,SEC008,BND,Vanguard Total Bond Market ETF,Fixed Income ETF,USD,Reuters,72.14,72.97,1.14,2894453.0,Reviewed,No,Normal price movement
+2025-07-22,SEC008,BND,Vanguard Total Bond Market ETF,Fixed Income ETF,USD,ICE Data Services,72.97,73.41,0.61,4320829.0,Reviewed,No,Normal price movement
+2025-07-23,SEC008,BND,Vanguard Total Bond Market ETF,Fixed Income ETF,USD,Internal Feed,73.41,73.41,0.0,1199544.0,Needs Review,Yes,Possible stale price
+2025-07-24,SEC008,BND,Vanguard Total Bond Market ETF,Fixed Income ETF,USD,ICE Data Services,73.41,73.95,0.73,1299404.0,Reviewed,No,Normal price movement
+2025-07-25,SEC008,BND,Vanguard Total Bond Market ETF,Fixed Income ETF,USD,Reuters,73.95,73.64,-0.41,1413165.0,Reviewed,No,Normal price movement
+2025-07-28,SEC008,BND,Vanguard Total Bond Market ETF,Fixed Income ETF,USD,Internal Feed,73.64,74.51,1.18,2560159.0,Reviewed,No,Normal price movement
+2025-07-29,SEC008,BND,Vanguard Total Bond Market ETF,Fixed Income ETF,USD,ICE Data Services,74.51,74.52,0.02,4159131.0,Reviewed,No,Normal price movement
+2025-07-30,SEC008,BND,Vanguard Total Bond Market ETF,Fixed Income ETF,USD,ICE Data Services,74.52,82.12,10.2,969429.0,Needs Review,Yes,Large market movement
+2025-07-31,SEC008,BND,Vanguard Total Bond Market ETF,Fixed Income ETF,USD,Internal Feed,82.12,82.29,0.2,273532.0,Reviewed,No,Normal price movement
+2025-08-01,SEC008,BND,Vanguard Total Bond Market ETF,Fixed Income ETF,USD,Internal Feed,82.29,81.83,-0.56,4902594.0,Reviewed,No,Normal price movement
+2025-08-04,SEC008,BND,Vanguard Total Bond Market ETF,Fixed Income ETF,USD,Reuters,81.83,82.26,0.53,1480358.0,Reviewed,No,Normal price movement
+2025-08-05,SEC008,BND,Vanguard Total Bond Market ETF,Fixed Income ETF,USD,Internal Feed,82.26,81.57,-0.85,314832.0,Reviewed,No,Normal price movement
+2025-08-06,SEC008,BND,Vanguard Total Bond Market ETF,Fixed Income ETF,USD,Bloomberg,81.57,80.96,-0.74,3562983.0,Reviewed,No,Normal price movement
+2025-08-07,SEC008,BND,Vanguard Total Bond Market ETF,Fixed Income ETF,USD,Reuters,80.96,80.79,-0.21,4259567.0,Reviewed,No,Normal price movement
+2025-08-08,SEC008,BND,Vanguard Total Bond Market ETF,Fixed Income ETF,USD,Internal Feed,80.79,81.51,0.89,572453.0,Reviewed,No,Normal price movement
+2025-08-11,SEC008,BND,Vanguard Total Bond Market ETF,Fixed Income ETF,USD,Reuters,81.51,81.55,0.04,4062866.0,Reviewed,No,Normal price movement
+2025-08-12,SEC008,BND,Vanguard Total Bond Market ETF,Fixed Income ETF,USD,Internal Feed,81.55,81.19,-0.45,4522193.0,Reviewed,No,Normal price movement
+2025-08-13,SEC008,BND,Vanguard Total Bond Market ETF,Fixed Income ETF,USD,ICE Data Services,81.19,81.28,0.11,2267630.0,Reviewed,No,Normal price movement
+2025-08-14,SEC008,BND,Vanguard Total Bond Market ETF,Fixed Income ETF,USD,Internal Feed,81.28,80.68,-0.74,4731570.0,Reviewed,No,Normal price movement
+2025-08-15,SEC008,BND,Vanguard Total Bond Market ETF,Fixed Income ETF,USD,ICE Data Services,80.68,80.14,-0.66,2546571.0,Reviewed,No,Normal price movement
+2025-08-18,SEC008,BND,Vanguard Total Bond Market ETF,Fixed Income ETF,USD,ICE Data Services,80.14,80.54,0.49,4152055.0,Reviewed,No,Normal price movement
+2025-08-19,SEC008,BND,Vanguard Total Bond Market ETF,Fixed Income ETF,USD,ICE Data Services,80.54,80.5,-0.05,2343928.0,Reviewed,No,Normal price movement
+2025-08-20,SEC008,BND,Vanguard Total Bond Market ETF,Fixed Income ETF,USD,ICE Data Services,80.5,79.77,-0.91,3235105.0,Reviewed,No,Normal price movement
+2025-08-21,SEC008,BND,Vanguard Total Bond Market ETF,Fixed Income ETF,USD,Internal Feed,79.77,80.38,0.76,1278730.0,Reviewed,No,Normal price movement
+2025-08-22,SEC008,BND,Vanguard Total Bond Market ETF,Fixed Income ETF,USD,ICE Data Services,80.38,79.49,-1.1,712946.0,Reviewed,No,Normal price movement
+2025-08-25,SEC008,BND,Vanguard Total Bond Market ETF,Fixed Income ETF,USD,ICE Data Services,79.49,80.3,1.02,4068808.0,Reviewed,No,Normal price movement
+2025-08-26,SEC008,BND,Vanguard Total Bond Market ETF,Fixed Income ETF,USD,Reuters,80.3,79.73,-0.72,4764548.0,Reviewed,No,Normal price movement
+2025-08-27,SEC008,BND,Vanguard Total Bond Market ETF,Fixed Income ETF,USD,ICE Data Services,79.73,79.03,-0.87,4972691.0,Reviewed,No,Normal price movement
+2025-08-28,SEC008,BND,Vanguard Total Bond Market ETF,Fixed Income ETF,USD,Reuters,79.03,78.55,-0.62,4504698.0,Reviewed,No,Normal price movement
+2025-08-29,SEC008,BND,Vanguard Total Bond Market ETF,Fixed Income ETF,USD,Reuters,78.55,78.81,0.33,3517023.0,Reviewed,No,Normal price movement
+2025-09-01,SEC008,BND,Vanguard Total Bond Market ETF,Fixed Income ETF,USD,ICE Data Services,78.81,79.22,0.52,1203157.0,Reviewed,No,Normal price movement
+2025-09-02,SEC008,BND,Vanguard Total Bond Market ETF,Fixed Income ETF,USD,Bloomberg,79.22,80.1,1.11,1374905.0,Reviewed,No,Normal price movement
+2025-09-03,SEC008,BND,Vanguard Total Bond Market ETF,Fixed Income ETF,USD,Internal Feed,80.1,80.39,0.37,4040457.0,Reviewed,No,Normal price movement
+2025-09-04,SEC008,BND,Vanguard Total Bond Market ETF,Fixed Income ETF,USD,Internal Feed,80.39,80.68,0.36,2459586.0,Reviewed,No,Normal price movement
+2025-09-05,SEC008,BND,Vanguard Total Bond Market ETF,Fixed Income ETF,USD,ICE Data Services,80.68,80.27,-0.52,800450.0,Reviewed,No,Normal price movement
+2025-09-08,SEC008,BND,Vanguard Total Bond Market ETF,Fixed Income ETF,USD,Reuters,80.27,80.34,0.08,362880.0,Reviewed,No,Normal price movement
+2025-09-09,SEC008,BND,Vanguard Total Bond Market ETF,Fixed Income ETF,USD,Reuters,80.34,80.18,-0.2,354840.0,Reviewed,No,Normal price movement
+2025-09-10,SEC008,BND,Vanguard Total Bond Market ETF,Fixed Income ETF,USD,Internal Feed,80.18,80.73,0.69,2478224.0,Reviewed,No,Normal price movement
+2025-09-11,SEC008,BND,Vanguard Total Bond Market ETF,Fixed Income ETF,USD,Bloomberg,80.73,79.78,-1.18,950103.0,Reviewed,No,Normal price movement
+2025-09-12,SEC008,BND,Vanguard Total Bond Market ETF,Fixed Income ETF,USD,ICE Data Services,79.78,79.37,-0.52,4607534.0,Reviewed,No,Normal price movement
+2025-09-15,SEC008,BND,Vanguard Total Bond Market ETF,Fixed Income ETF,USD,Internal Feed,79.37,80.11,0.93,4279642.0,Reviewed,No,Normal price movement
+2025-09-16,SEC008,BND,Vanguard Total Bond Market ETF,Fixed Income ETF,USD,Internal Feed,80.11,79.67,-0.55,2823979.0,Reviewed,No,Normal price movement
+2025-09-17,SEC008,BND,Vanguard Total Bond Market ETF,Fixed Income ETF,USD,Reuters,79.67,80.12,0.55,1611951.0,Reviewed,No,Normal price movement
+2025-09-18,SEC008,BND,Vanguard Total Bond Market ETF,Fixed Income ETF,USD,Bloomberg,80.12,80.57,0.57,4812894.0,Reviewed,No,Normal price movement
+2025-09-19,SEC008,BND,Vanguard Total Bond Market ETF,Fixed Income ETF,USD,Reuters,80.57,79.94,-0.78,3451499.0,Reviewed,No,Normal price movement
+2025-09-22,SEC008,BND,Vanguard Total Bond Market ETF,Fixed Income ETF,USD,Internal Feed,79.94,79.97,0.04,850148.0,Reviewed,No,Normal price movement
