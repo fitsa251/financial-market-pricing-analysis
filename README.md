@@ -140,7 +140,7 @@ An Excel dashboard was created using PivotTables, KPI cards, and charts. The das
 
 ## Dashboard Preview
 
-![Financial Market Pricing Dashboard](dashboard/excel_dashboard_screenshot.png)
+![Financial Market Pricing Dashboard](dashboard/excel dashboard screenshot.png)
 
 ---
 
